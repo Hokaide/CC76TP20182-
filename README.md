@@ -1,3 +1,2 @@
 # CC76TP20182-
-Trabajo parcial del curso de Complejidad
-dhiuduoihhoid
+Trabajo parcial del curso de Complejidad Algoritmica
