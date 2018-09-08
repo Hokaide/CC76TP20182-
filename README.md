@@ -1,2 +1,2 @@
-# CC76TP20182-
+# CC76TParcial20182-
 Trabajo parcial del curso de Complejidad Algoritmica
