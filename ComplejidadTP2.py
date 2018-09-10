@@ -1,6 +1,6 @@
 import random
 import math
-
+#####
 def is_float(value):
   try:
     float(value)
